@@ -16,7 +16,6 @@ import java.util.Objects;
 
 public class MainActivity extends AppCompatActivity {
 
-    String url = "https://www.linkedin.com/in/anshulwycliffe";
     WebView webView;
     CardView cardView;
     @Override
