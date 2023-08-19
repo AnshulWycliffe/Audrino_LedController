@@ -6,8 +6,11 @@ https://roboticadiy.com/esp8266-make-your-own-led-control-web-server-in-arduino-
 
 I just made a android app having webview to access the localhost for controlling the led
 
-Author - Roboticadiy
+# Author
+Roboticadiy
 
-Modification - Mr. Naman Dewangan
+# Modified By
+Naman Dewangan
 
-App Developer - Oh it's Me Anshul Wycliffe
+# App Developer 
+Oh it's Me Anshul Wycliffe
